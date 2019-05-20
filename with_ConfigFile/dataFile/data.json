@@ -1,0 +1,9 @@
+{
+    "studentDetails" :{
+        "name": "Praveer",
+        "Address": "Singapore",
+        "Age": "38",
+        "Nationality": "Indian",
+        "Profession": "IT"
+    }
+}
